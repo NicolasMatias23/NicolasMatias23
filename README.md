@@ -32,7 +32,6 @@ Estudante de tecnologia na **ETEC Vasco Antônio Venchiarutti (ETEC VAV)**, foca
 </div>
 # Olá! 👋
 
-![Cobrinha comendo commits](https://githubnNicolasMatias23.com)
 
 
 ---
