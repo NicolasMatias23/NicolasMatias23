@@ -38,6 +38,25 @@ Estudante de tecnologia na **ETEC Vasco Antônio Venchiarutti (ETEC VAV)**, foca
 
 - **E-mail:** [nick.matias230710@gmail.com]
 
+<div align="center">
+  
+  <h1>Azzar Budiyanto</h1>
+  <p><b>Software Developer | IoT & Embedded Systems</b></p>
+  
+  <p>I build web applications and embedded hardware solutions. My current focus is developing cloud-native microservices and edge computing architectures.</p>
+  
+  <a href="mailto:azzar.mr.zs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/azzar-budiyanto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/siapa_hayosiapa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <br>
+  <br>
+  <a href="https://glassgallery.my.id/" target="_blank"><img src="/public/grid-snake.svg" alt="Azzar Logo" height="150" style="border-radius: 8px;"></a>
+</div>
+
+---
+
+## What I do
+
 <table align="center" style="border: none;">
   <tr>
     <td width="50%" align="center" style="border: none;">
@@ -52,3 +71,26 @@ Estudante de tecnologia na **ETEC Vasco Antônio Venchiarutti (ETEC VAV)**, foca
     </td>
   </tr>
 </table>
+
+## Technical Stack
+
+- **Languages:** JavaScript, TypeScript, Python, C/C++
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD
+- **Currently Learning:** Distributed systems and advanced cloud-native architectures.
+
+---
+
+<div align="center">
+  <p>Find me elsewhere:</p>
+  <a href="https://wokwi.com/makers/azzar"><img src="https://img.shields.io/badge/Wokwi-2E8B57?style=flat-square&logo=arduino&logoColor=white" alt="Wokwi"></a>
+  <a href="https://www.hackerrank.com/profile/azzar_mr_zs"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://devpost.com/1999AZZAR"><img src="https://img.shields.io/badge/DevPost-003E54?style=flat-square&logo=devpost&logoColor=white" alt="DevPost"></a>
+  <a href="https://app.codecrafters.io/users/1999AZZAR"><img src="https://img.shields.io/badge/Codecrafters-E74C3C?style=flat-square&logo=codeforces&logoColor=white" alt="Codecrafters"></a>
+  <a href="https://github.com/lily-osp/"><img src="https://img.shields.io/badge/Lily_Osp-181717?style=flat-square&logo=github&logoColor=white" alt="Lily Osp"></a>
+  <br>
+  <br>
+  <a href="https://paypal.me/azzarbudiyanto"><img src="https://img.shields.io/badge/Support_My_Work-PayPal-blue.svg?style=flat-square&logo=paypal" alt="PayPal"></a>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+</div>
