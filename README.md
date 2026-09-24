@@ -35,5 +35,4 @@ Estudante de tecnologia na **ETEC Vasco Antônio Venchiarutti (ETEC VAV)**, foca
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- **E-mail:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- **E-mail:** [nick.matias230710@gmail.com]
