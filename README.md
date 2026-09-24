@@ -38,17 +38,17 @@ Estudante de tecnologia na **ETEC Vasco Antônio Venchiarutti (ETEC VAV)**, foca
 
 - **E-mail:** [nick.matias230710@gmail.com]
 
-- <div align="center">
-  <p>Find me elsewhere:</p>
-  <a href="https://wokwi.com/makers/azzar"><img src="https://img.shields.io/badge/Wokwi-2E8B57?style=flat-square&logo=arduino&logoColor=white" alt="Wokwi"></a>
-  <a href="https://www.hackerrank.com/profile/azzar_mr_zs"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://devpost.com/1999AZZAR"><img src="https://img.shields.io/badge/DevPost-003E54?style=flat-square&logo=devpost&logoColor=white" alt="DevPost"></a>
-  <a href="https://app.codecrafters.io/users/1999AZZAR"><img src="https://img.shields.io/badge/Codecrafters-E74C3C?style=flat-square&logo=codeforces&logoColor=white" alt="Codecrafters"></a>
-  <a href="https://github.com/lily-osp/"><img src="https://img.shields.io/badge/Lily_Osp-181717?style=flat-square&logo=github&logoColor=white" alt="Lily Osp"></a>
-  <br>
-  <br>
-  <a href="https://paypal.me/azzarbudiyanto"><img src="https://img.shields.io/badge/Support_My_Work-PayPal-blue.svg?style=flat-square&logo=paypal" alt="PayPal"></a>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=1999AZZAR&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
-</div>
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="assets/blotcat-web.jpg" alt="Software & Web Dev" width="100%" style="border-radius: 8px;">
+      <h3>Software Engineering</h3>
+      <p>Building scalable backend services and responsive frontend applications using <b>React, Node.js, Express, and Django</b>.</p>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="assets/blotcat-iot.jpg" alt="IoT & Embedded Systems" width="100%" style="border-radius: 8px;">
+      <h3>Embedded Systems</h3>
+      <p>Designing hardware integrations and edge computing solutions using <b>C/C++, Arduino, ESP32, and STM32</b>.</p>
+    </td>
+  </tr>
+</table>
